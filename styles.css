@@ -1,0 +1,24 @@
+ @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic);
+
+ body {
+  background-color: #000111;
+  background-image: url(http://enqounter.co/42886dc9c135967cba53ceae7dfc781f.png);
+  background-position: 50%;
+  background-repeat: repeat;
+  background-size: cover;
+}
+.hidden {
+  display: none;
+}
+.active {
+  fill: url(#fgradient);
+}
+.haze {
+  fill: rgb(178, 196, 255);
+  opacity: 0.15;
+}
+.legend {
+  font-family: "futura-pt", sans-serif;
+  font-size: 14px;
+  fill: #fefefe;
+}
